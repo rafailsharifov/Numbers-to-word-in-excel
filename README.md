@@ -16,4 +16,5 @@ Nümunə verilən şitdə göstərilir.
 2. AZN çevirməsi etmək üçün funksiya: "=SpellNumberAzn()"
 3. Dollar çevirməsi etmək üçün funksiya: "=SpellNumberDollar()"
 
+Visual basic açmaq üçün alt + f11
 Əyləncələr arzu edirəm!
