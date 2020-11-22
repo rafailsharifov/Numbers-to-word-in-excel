@@ -17,4 +17,5 @@ Nümunə verilən şitdə göstərilir.
 3. Dollar çevirməsi etmək üçün funksiya: "=SpellNumberDollar()"
 
 Visual basic açmaq üçün alt + f11
+
 Əyləncələr arzu edirəm!
